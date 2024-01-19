@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Engineer
 -------------------
 
-I am a Full Stack Engineer with 3+ years of experience in web applications development, using React, Vue, and .Net
+I am a Full Stack Engineer with 3+ years of experience in web applications development, with strong knowledge of React and .Net
 
 * 🌍  I'm based in Vancouver, Canada
 * ✉️  You can contact me at [olga.petrova.se@gmail.com](mailto:olga.petrova.se@gmail.com)
